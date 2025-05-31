@@ -1,4 +1,4 @@
-# 🎮 Lumina Oz - Game Development & Technology Consulting
+# 🎮 Lumina Oz - Game Development
 
 Welcome to **Lumina Oz**, where innovation meets creativity in the world of game development and technology consulting.
 
