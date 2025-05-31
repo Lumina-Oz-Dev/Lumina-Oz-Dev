@@ -1,16 +1,16 @@
-# 🎮 Lumina Oz - Game Development
+# 🎮 Lumina Oz - Game Development & Creator Support
 
-Welcome to **Lumina Oz**, where innovation meets creativity in the world of game development and technology consulting.
+Welcome to **Lumina Oz**, where innovation meets creativity in the world of game development and creator support.
 
 ## 🌟 About Us
 
-Lumina Oz is a dynamic game development and technology consulting company dedicated to creating exceptional gaming experiences and empowering the next generation of developers. We combine cutting-edge technology with creative vision to deliver outstanding results for our clients and community.
+Lumina Oz is a dynamic game development company dedicated to creating exceptional gaming experiences and empowering the next generation of developers. We combine cutting-edge technology with creative vision to deliver outstanding results for our clients and community.
 
 ## 🎯 Our Mission
 
 We strive to:
 - **Create innovative games** that captivate and inspire players worldwide
-- **Provide expert consulting** services to help businesses leverage technology for game development
+- **Provide expert support** to creators and enthusiasts in their game development journey
 - **Support aspiring developers** by offering guidance, resources, and mentorship
 - **Foster a learning community** through free educational content and materials
 
@@ -22,7 +22,7 @@ We strive to:
 - **Technical Implementation**: Expert coding, optimization, and platform integration
 - **Art & Animation**: Creative visual assets that enhance gameplay experiences
 
-### Technology Consulting
+### Support to Creators and Enthusiasts
 - **Game Development Strategy**: Strategic planning for game projects and studios
 - **Technical Architecture**: Designing scalable and efficient game systems
 - **Platform Integration**: Multi-platform deployment and optimization
@@ -62,7 +62,7 @@ Whether you're a complete beginner or an experienced developer, there's a place 
 
 ## 📞 Connect With Us
 
-Ready to start your game development journey or need consulting services? We'd love to hear from you!
+Ready to start your game development journey or need support services? We'd love to hear from you!
 
 - **GitHub**: [@Lumina-Oz-Dev](https://github.com/Lumina-Oz-Dev)
 - **Email**: luminaoz.dev@gmail.com
